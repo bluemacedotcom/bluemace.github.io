@@ -11,10 +11,7 @@
 </head>
 <body>
     <h1 class="text-3xl font-bold underline">
-    Hello world!
+    Hello world! Php
   </h1>
-  
-<!-- Script -->
-<script></script>
 </body>
 </html>
